@@ -1,5 +1,4 @@
-// second  method of function
-// greet is function but here greet is variable to store the function
+
  const greet =function (){
     console.log("Hello,! Have A Nice Day !!!")
 }
