@@ -1,13 +1,13 @@
 let colors=["Pink","Black","Purple","Yellow","Gold"];
 
 
-  colors.push('Blue'); // insert element atlast 
-  colors.unshift('White'); // insert element atsatart
+  colors.push('Blue'); 
+  colors.unshift('White'); 
   colors.push('Babypink');
   colors.unshift('Red');
   console.log(colors);
- colors.pop(); //delete lastelement
-colors.shift();// starting pos. delete element
+ colors.pop(); 
+colors.shift();
 console.log(colors);
 console.log("Black ?",colors.includes('Black'))
 console.log("Purple ?",colors.includes('Purple'))
