@@ -1,4 +1,4 @@
-// array of objects
+
 let students =[
     {id:1,name:"Neeta",fee:5600,course:"Python",date:"12-09-2023"},
     {id:2,name:"Neha",fee:5600,course:"Java",date:"12-09-2023"},
