@@ -1,4 +1,4 @@
-let stu={name:"Neeta",fee:5600,course:"Python"}// {key:value,key:value}
+let stu={name:"Neeta",fee:5600,course:"Python"}
 console.log(stu)
 console.log("Name is "+stu["name"])
 console.log("Course $ fee"+stu["course"]+","+stu["fee"])
