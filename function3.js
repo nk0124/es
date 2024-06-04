@@ -1,5 +1,4 @@
-// third   method of function
-// arrow function ()=>
+
 const greet = ()=>console.log("Hello,! Have A Nice Day !!!")
 const addnums=(a,b,c)=>(a,b,c)
 const average=(a,b,c)=>(a+b+c)/3
