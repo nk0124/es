@@ -1,5 +1,5 @@
 let text="Learning Javascript and Node JS"
-console.log(text);// text function
+console.log(text);
 console.log(text.toUpperCase());
 console.log(text.toLowerCase());
 console.log(text.length);
