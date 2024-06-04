@@ -9,7 +9,7 @@ class Rect{
         return this.height*this.width;
     }
 
-    // setter hum tb use kerte hai jb constructor ki value ko change kerna ho 
+    
     set width(x){
         this._width=x;
     }
